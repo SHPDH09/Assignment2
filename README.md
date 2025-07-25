@@ -117,7 +117,7 @@ This file is included as `wallet_scores.csv`.
 
 - [Wallet List](https://docs.google.com/spreadsheets/d/1ZzaeMgNYnxvriYYpe8PE7uMEblTI0GV5GIVUnsP-sBs/edit?usp=sharing)
 - [Compound V3 Subgraph](https://thegraph.com/explorer)
-- [Submission Form](https://forms.gle/epKXzFGg9rxCea728)
+
 
 ---
 
